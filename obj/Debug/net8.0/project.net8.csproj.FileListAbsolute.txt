@@ -12,3 +12,4 @@ C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\refint\pro
 C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.pdb
 C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.genruntimeconfig.cache
 C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\ref\project.net8.dll
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.sourcelink.json
