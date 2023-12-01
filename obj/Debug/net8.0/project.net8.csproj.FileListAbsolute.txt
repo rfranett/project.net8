@@ -1,0 +1,14 @@
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\bin\Debug\net8.0\project.net8.exe
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\bin\Debug\net8.0\project.net8.deps.json
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\bin\Debug\net8.0\project.net8.runtimeconfig.json
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\bin\Debug\net8.0\project.net8.dll
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\bin\Debug\net8.0\project.net8.pdb
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.AssemblyInfo.cs
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.dll
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\refint\project.net8.dll
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.pdb
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\project.net8.genruntimeconfig.cache
+C:\Users\w10\OneDrive\Área de Trabalho\project.net8\obj\Debug\net8.0\ref\project.net8.dll
